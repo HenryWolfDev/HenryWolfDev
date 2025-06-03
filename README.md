@@ -30,6 +30,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HenryWolf/HenryWolf/output/pacman-contribution-graph.svg">
 </picture>
 
-
-
 ###
