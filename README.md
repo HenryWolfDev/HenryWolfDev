@@ -20,6 +20,6 @@
 
 ### 
 
-<img src="https://raw.githubusercontent.com/HenryWolf/HenryWolf/output/snake.svg" alt="Snake animation" />
+
 
 ###
