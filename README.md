@@ -18,7 +18,7 @@
 ### 🛠️ Skills & Tools<br>- HTML5, CSS3, SCSS<br>- JavaScript (ES6+), TypeScript<br>- React, Angular<br>- Git & GitHub, Firebase<br>- Bootstrap, Material UI<br>- REST APIs, HTTP, Sessions<br>- Agile Methoden (Scrum, Kanban)<br><br>---<br><br>
 ### 📫 Kontakt<br>📧 HWolf.binz@gmail.com</p>
 
-###
+### 
 
 <img src="https://raw.githubusercontent.com/HenryWolf/HenryWolf/output/snake.svg" alt="Snake animation" />
 
