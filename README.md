@@ -14,15 +14,12 @@
 
 ###
 
-<p align="left">👋 Hallo, ich bin Henry,<br><br>angehender Frontend Web Developer.<br><br>Aktuell nehme ich an einem **24-wöchigen Vollzeit-Intensivkurs bei der Developer Akademie** teil, <br>der mich praxisnah auf eine Karriere als Webentwickler vorbereitet. <br>Neben fundierten technischen Skills liegt der Schwerpunkt auch auf agilen Methoden wie <br>**Scrum**, Versionskontrolle mit **Git & GitHub** und kollaborativer Projektarbeit.<br><br><br>---<br><br>
+<p align="left">👋 Hallo, ich bin Henry,<br><br>angehender Frontend Web Developer.<br><br>Aktuell nehme ich an einem **24-wöchigen Vollzeit-Intensivkurs bei der Developer Akademie teil, <br>der mich praxisnah auf eine Karriere als Webentwickler vorbereitet. <br><br>Neben fundierten technischen Skills liegt der Schwerpunkt auch auf agilen Methoden wie <br>Scrum, Versionskontrolle mit Git & GitHub und kollaborativer Projektarbeit.<br><br><br>---<br><br>
 ### 🛠️ Skills & Tools<br>- HTML5, CSS3, SCSS<br>- JavaScript (ES6+), TypeScript<br>- React, Angular<br>- Git & GitHub, Firebase<br>- Bootstrap, Material UI<br>- REST APIs, HTTP, Sessions<br>- Agile Methoden (Scrum, Kanban)<br><br>---<br><br>
 ### 📫 Kontakt<br>📧 HWolf.binz@gmail.com</p>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenryWolf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HenryWolf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/HenryWolf/HenryWolf/output/snake.svg" alt="Snake animation" />
 
 ###
