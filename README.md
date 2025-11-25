@@ -13,7 +13,7 @@
 
 <p align="left">👋 Hallo, ich bin Henry,<br><br>Frontend Web Developer.<br><br>Neben fundierten technischen Skills liegt der Schwerpunkt auch auf agilen Methoden wie Versionskontrolle mit Git & GitHub und kollaborativer Projektarbeit.
 
-### 📧 HWolf.binz@gmail.com</p>
+### HWolf.binz@gmail.com</p>
 
 ### 
 
