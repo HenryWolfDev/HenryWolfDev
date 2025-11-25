@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">👋 Hallo, ich bin Henry,<br><br>angehender Frontend Web Developer.<br><br>Aktuell nehme ich an einem **24-wöchigen Vollzeit-Intensivkurs bei der Developer Akademie teil, <br>der mich praxisnah auf eine Karriere als Webentwickler vorbereitet. <br><br>Neben fundierten technischen Skills liegt der Schwerpunkt auch auf agilen Methoden wie Versionskontrolle mit Git & GitHub und kollaborativer Projektarbeit.
+<p align="left">👋 Hallo, ich bin Henry,<br><br>Frontend Web Developer.<br><br>Neben fundierten technischen Skills liegt der Schwerpunkt auch auf agilen Methoden wie Versionskontrolle mit Git & GitHub und kollaborativer Projektarbeit.
 
 ### 📫 Kontakt<br>📧 HWolf.binz@gmail.com</p>
 
